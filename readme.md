@@ -90,28 +90,28 @@ Below is the test case table used to validate the functionality of the restauran
 Screenshots of the application in action:
 
 1. **Add Customer**
-   ![Add Customer](Screenshots/Screenshot 2024-08-01 150404.png)
+   ![Add Customer](Screenshots/Add_Order.png)
 
 2. **Add Invalid Customer**
-   ![Add Invalid Customer](Screenshots/Screenshot 2024-08-01 150609.png)
+   ![Add Invalid Customer](Screenshots/Add_Invalid_Order.png)
 
 3. **Assign Table**
-   ![Assign Table](Screenshots/Screenshot 2024-08-01 150924.png)
+   ![Assign Table](Screenshots/Assign_Table.png)
 
 4. **Assign already Assigned Table**
-   ![Assign already Assigned Table](Screenshots/Screenshot 2024-08-01 151031.png)
+   ![Assign already Assigned Table](Screenshots/Assign_Already_Assigned_Table.png)
 
 5. **Add Order**
-   ![Add Order](Screenshots/Screenshot 2024-08-01 152120.png)
+   ![Add Order](Screenshots/Add_Order_to_Customer.png)
 
 6. **Add Invalid Order**
-   ![Add Order](Screenshots/Screenshot 2024-08-01 152257.png)
+   ![Add Order](Screenshots/Add_Order_to_Non-Existent_Customer.png)
 
 7. **Cancel Order**
-   ![Add Order](Screenshots/Screenshot 2024-08-01 152403.png)
+   ![Add Order](Screenshots/Cancel_Order.png)
 
 8. **Cancel Non-Existent Order**
-   ![Add Order](Screenshots/Screenshot 2024-08-01 152509.png)
+   ![Add Order](Screenshots/Cancel_Non-Existent_Customer.png)
 
 ## Contributing
 
